@@ -9,6 +9,7 @@ Keyboard shortcuts, settings, plugins information of my current editor for devel
 | To oepn the file explorer | `command` +  `shift` + `e`|
 | Go to a file | `command` + `p`|
 | Close current tab | `command` + `w`|
+| Close all tabs | `command` + `k` + `w` |
 | Open Terminal | `control` + `~`|
 
 
