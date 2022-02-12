@@ -8,9 +8,12 @@ Keyboard shortcuts, settings, plugins information of my current editor for devel
 | To close or open the sidebar | `command` + `b`|
 | To oepn the file explorer | `command` +  `shift` + `e`|
 | Go to a file | `command` + `p`|
+| Close current tab | `command` + `w`|
+| Open Terminal | `control` + `~`|
 
 
-### Current Theme: Night Owl (no italics)
+### Current theme: Night Owl (no italics)
+### Currenr font: Jetbrains Mono
 
 
 ### Sources
