@@ -12,8 +12,8 @@ Keyboard shortcuts, settings, plugins information of my current editor for devel
 | Open Terminal | `control` + `~`|
 
 
-### Current theme: Night Owl (no italics)
-### Currenr font: Jetbrains Mono
+ - Current theme: Night Owl (no italics)
+ - Currenr font: Jetbrains Mono
 
 
 ### Sources
